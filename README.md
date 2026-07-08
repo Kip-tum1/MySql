@@ -1,4 +1,7 @@
 # FOODIE-FI CASE STUDY
+## Background
+Recognizing the growing popularity of subscription-based businesses and a gap in the market for food-focused content, Danny launched Foodie-Fi in 2020 alongside a few close friends — a Netflix-style streaming platform dedicated exclusively to cooking shows, offering customers unlimited on-demand access to exclusive food videos from around the world through monthly and annual subscriptions. Built with a data-driven mindset from the start, Foodie-Fi relies on subscription data analysis to guide all future investment decisions and feature development, making this case study a exploration of how subscription-style digital data can be used to answer key business questions.
+
 ## Problem Statement
 Danny launched Foodie-Fi in 2020 — a subscription-based streaming service focused exclusively on food-related content, offering customers unlimited on-demand access to exclusive cooking and food videos from around the world through monthly and annual subscription plans.
 
