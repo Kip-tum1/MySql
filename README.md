@@ -4,6 +4,14 @@ Danny launched Foodie-Fi in 2020 — a subscription-based streaming service focu
 
 Since its inception, Danny has been committed to running Foodie-Fi with a data-driven mindset, aiming to base all future investment decisions and new feature development on solid data analysis rather than guesswork.
 
+The challenge, therefore, is to analyze Foodie-Fi's subscription-style digital data in order to answer key business questions related to:
+
+- Customer subscription behavior 
+- Revenue and growth trends across monthly and annual plans
+- Customer lifetime value and retention
+- Plan performance — understanding which subscription tiers are most popular or profitable
+- Providing actionable insights that can guide Foodie-Fi's future business strategy, marketing decisions, and product developmen
+
 ## SKILLS APPLIED
 - Window Functions
 - CTEs
